@@ -14,6 +14,8 @@ $analyzerService = new AnalyzerService($baseURL);
 $promise = $analyzerService->getTechnologies($appURL)
     ->then(function ($technologies){
         /* Do some thing here */
+        echo implode("\n", $technologies);
+        echo "\n";
     });
 
 /* Wait for promise to finish */

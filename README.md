@@ -16,7 +16,7 @@ Please don't forget copying everything inside `src` into the root directory of y
 ## Running
 To get the list of technologies used by `salesforce.com`, navigate to `src` directory and run:
 ```
-php example.php https://analyzer-api-stackrapp.herokuapp.com http://www.wpi.edu
+php example.php https://analyzer-api-stackrapp.herokuapp.com http://www.salesforce.com
 ```
 
 Here is the corresponding output
