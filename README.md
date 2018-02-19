@@ -1,4 +1,4 @@
-# Technology Analyzer for PHP
+# Technology Analyzer Library for PHP
 
 ## Prerequisites
 - PHP 7.1.7
